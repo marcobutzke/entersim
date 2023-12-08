@@ -9,4 +9,6 @@ estados, europa = load_database()
 
 st.dataframe(estados)
 
-st.dataframe(europa)                                                             
+st.dataframe(europa)
+
+st.table(estados)
